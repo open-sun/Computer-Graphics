@@ -1,0 +1,2 @@
+# jittor_cGAN
+使用jittor框架完成cGAN对抗生成网络从而进行图片生成
